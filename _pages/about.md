@@ -6,12 +6,10 @@ subtitle: Navigating the World of Words - Translator, Editor, and English Mentor
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>US-Born English Teacher and Persian-English Translator</p>
-    <p>Shahidan Ashraf Blvd.,</p>
-    <p>Yazd, Iran</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
