@@ -13,11 +13,11 @@ profile:
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Greetings from Yazd, Iran!
+**Greetings from Yazd, Iran!**
 
 Allow me to introduce myself - I'm Abuzar Ahmadi, a seasoned English-Persian translator and editor with a passion for words that spans over 15 enriching years. Born and raised in the United States, I've had the privilege of immersing myself in the nuances of both English and Persian, making me your ideal bridge between languages.
 
