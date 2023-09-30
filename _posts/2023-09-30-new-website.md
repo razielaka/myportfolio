@@ -9,7 +9,7 @@ categories: updates
 
 I'm thrilled to announce the launch of my brand-new portfolio website! I'm excited to share my professional journey and showcase my expertise in translation, editing, and teaching.
 
-![www.abuzarahmadi.com](www.abuzarahmadi.com)
+[www.abuzarahmadi.com](www.abuzarahmadi.com)
 
 **Explore My World of Words**
 
