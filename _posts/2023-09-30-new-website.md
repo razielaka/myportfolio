@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Exciting News: My New Portfolio Website Is Live!
-date:   2023-09-30 10:00:00
+title:  Exciting News - My New Portfolio Website Is Live!
+date:   2023-09-30 11:00:00
 description: Check out my latest work and get in touch!
 tags: website launch
 categories: updates
