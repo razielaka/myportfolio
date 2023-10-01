@@ -93,10 +93,20 @@
   "publications": [],
   "skills": [
     {
-      "Research": "Research methodology, statistical analysis", 
-      "Computer literacy": "Microsoft Office, general AI literacy and prompt engineering",
-      "Programming languages": "VBA, Python, HTML",
-      "Platforms and tools": "Windows, Linux, Git, VS Code, Docker, memoQ, Trados"
+      "name": "Research methodology, statistical analysis",
+      "level": "proficient"
+    },
+    {
+      "name": "Computer skills - Microsoft Office, general AI literacy and prompt engineering, PC assembly and installation",
+      "level": "highly proficient"
+    },
+    {
+      "name": "Programming Languages - VBA, Python, HTML",
+      "level": "relatively proficient"
+    },
+    {
+      "name": "Platforms and Tools - Windows, Linux, VMs, Git, VS Code, Docker, memoQ, Trados",
+      "level": "highly proficient"
     }
   ],
   "languages": [
