@@ -32,26 +32,35 @@
       "name": "Teacher", 
       "position": "English Teacher", 
       "url": "",
-      "startDate": "2005-01-01",
+      "startDate": "2005",
       "endDate": "Present",
       "summary": "Teach English as a foreign language to students of all ages in speaking, writing, listening and reading with a focus on critical thinking.",
       "highlights": []
     },
     {
-      "name": "Ahl al-Bayt (‘a) World Assembly",
+      "name": "Ahl al-Bayt (a) World Assembly",
       "position": "Translator", 
       "url": "",
-      "startDate": "2007-01-01", 
+      "startDate": "2007", 
       "endDate": "Present",
       "summary": "Translate Islamic books and texts by contract.",
+      "highlights": []
+    },
+    {
+      "name": "Freelance",
+      "position": "Translator", 
+      "url": "",
+      "startDate": "2005", 
+      "endDate": "Present",
+      "summary": "Translate books, articles, and other texts.",
       "highlights": []
     },
     {
       "name": "Encyclopaedia Islamica", 
       "position": "Translator",
       "url": "",
-      "startDate": "2014-01-01",
-      "endDate": "Present", 
+      "startDate": "2014",
+      "endDate": "2015", 
       "summary": "Translate encyclopedia articles by contract on topics like caliphate, burial, calligraphy.",
       "highlights": []
     }
@@ -63,18 +72,18 @@
       "url": "",
       "area": "Industrial Safety", 
       "studyType": "Bachelor of Science",
-      "startDate": "2004-01-01",
-      "endDate": "2008-01-01",
+      "startDate": "2004",
+      "endDate": "2008",
       "score": "",
       "courses": []
     },
     {
-      "institution": "Allameh Tabataba’i University",
+      "institution": "Allameh Tabataba'i University",
       "url": "",
       "area": "English Translation Studies",
       "studyType": "Master of Arts", 
-      "startDate": "2009-01-01",
-      "endDate": "2011-01-01",
+      "startDate": "2009",
+      "endDate": "2011",
       "score": "",
       "courses": []
     }
@@ -83,16 +92,12 @@
   "certificates": [], 
   "publications": [],
   "skills": [
-    "Translation",
-    "Editing", 
-    "Teaching English",
-    "Research",
-    "Statistical analysis", 
-    "VBA programming",
-    "Python",
-    "Microsoft Office",
-    "Computer literacy",
-    "AI literacy"
+    {
+      "Research": "Research methodology, statistical analysis", 
+      "Computer literacy": "Microsoft Office, general AI literacy and prompt engineering",
+      "Programming languages": "VBA, Python, HTML",
+      "Platforms and tools": "Windows, Linux, Git, VS Code, Docker, memoQ, Trados"
+    }
   ],
   "languages": [
     {
@@ -104,7 +109,7 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [],
+  "interests": "Reading, programming, AI, cutting-edge devices and technologies",
   "references": [],
   "projects": [] 
 }
