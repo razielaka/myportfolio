@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 **Greetings from Yazd, Iran!**
 
-Allow me to introduce myself - I'm Abuzar Ahmadi, a seasoned English-Persian translator and editor with a passion for words that spans over 15 enriching years. Born and raised in the United States, I've had the privilege of immersing myself in the nuances of both English and Persian, making me your ideal bridge between languages.
+Allow me to introduce myself - I'm Abuzar Ahmadi, a seasoned English teacher and Persian-English translator and editor with a passion for words that spans over 15 enriching years. Born and raised in the United States, I've had the privilege of immersing myself in the nuances of both English and Persian, making me your ideal bridge between languages.
 
 My professional journey has been shaped by a diverse array of projects, ranging from the translation of intricate religious texts to the meticulous editing of medical articles, scientific research papers, and academic dissertations. I take pride in my ability to not just translate words, but to capture the essence and nuances of the source material, ensuring that the message remains intact and compelling in the target language.
 
