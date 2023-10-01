@@ -93,20 +93,24 @@
   "publications": [],
   "skills": [
     {
-      "name": "Research methodology, statistical analysis",
-      "level": "proficient"
+      "name": "Research skills",
+      "keywords": "Research methodology, statistical analysis",
+      "level": ""
     },
     {
-      "name": "Computer skills - Microsoft Office, general AI literacy and prompt engineering, PC assembly and installation",
-      "level": "highly proficient"
+      "name": "Computer skills",
+      "keywords": "Microsoft Office, general AI literacy and prompt engineering, PC assembly and installation",
+      "level": ""
     },
     {
-      "name": "Programming Languages - VBA, Python, HTML",
-      "level": "relatively proficient"
+      "name": "Programming Languages",
+      "keywords": "VBA, Python, HTML",
+      "level": ""
     },
     {
-      "name": "Platforms and Tools - Windows, Linux, VMs, Git, VS Code, Docker, memoQ, Trados",
-      "level": "highly proficient"
+      "name": "Platforms and Tools",
+      "keywords": "Windows, Linux, VMs, Git, VS Code, Docker, memoQ, Trados, AI tools",
+      "level": ""
     }
   ],
   "languages": [
@@ -116,10 +120,35 @@
     },
     {
       "language": "Persian", 
-      "fluency": "Fluent"
+      "fluency": "Native-like"
     }
   ],
-  "interests": "Reading, programming, AI, cutting-edge devices and technologies",
+  "interests": [
+    {
+      "name": "Reading",
+      "keywords": "Sci-fi, fantasy, cultivation, etc."
+    },
+    {
+      "name": "Programming",
+      "keywords": "Buliding personal apps and plugins"
+    },
+    {
+      "name": "AI",
+      "keywords": "Emergent behaviors and new use cases"
+    },
+    {
+      "name": "Homelab",
+      "keywords": "Tinkering with VPS and home servers"
+    },
+    {
+      "name": "Cutting-edge technologies and devices",
+      "keywords": "What's new?"
+    },
+    {
+      "name": "RTS",
+      "keywords": "Supcom once in a blue moon"
+    }
+  ],
   "references": [],
   "projects": [] 
 }
